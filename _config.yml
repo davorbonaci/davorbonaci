@@ -15,7 +15,6 @@ author:
   linkedin  : https://www.linkedin.com/in/davorbonaci
 
 # Specify source location.
-source: source
 sass:
   sass_dir: _scss
   style: compressed # expanded
