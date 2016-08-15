@@ -1,7 +1,27 @@
-exclude:
-  - .gitignore
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
+# General SEO settings.
+title: Davor Bonaci
+description: "Davor Bonaci's personal website"
+url: http://davorbonaci.com
+baseurl: ""
+
+# Author settings.
+author:
+  name      : Davor Bonaci
+  job       : Software Engineer at Google
+  bio       : I'm a member of the <a href="https://beam.incubator.apache.org">Apache Beam</a> PMC, and working as a Senior Software Engineer at Google on <a href="https://cloud.google.com/dataflow">Cloud Dataflow</a>.
+  thumb     : /images/davor.jpg
+  github    : https://github.com/davorbonaci
+  twitter   : https://twitter.com/BonaciDavor
+  linkedin  : https://www.linkedin.com/in/davorbonaci
+
+# Specify source location.
+source: source
+sass:
+  sass_dir: _scss
+  style: compressed # expanded
+
+# GitHub pages.
+repository: davorbonaci/davorbonaci.github.io
+
+# Google Analytics.
+google_analytics: UA-82528307-1
