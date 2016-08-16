@@ -18,6 +18,13 @@ author:
 sass:
   sass_dir: _scss
   style: compressed # expanded
+exclude:
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
 
 # GitHub pages.
 repository: davorbonaci/davorbonaci.github.io
