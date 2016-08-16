@@ -24,3 +24,10 @@ repository: davorbonaci/davorbonaci.github.io
 
 # Google Analytics.
 google_analytics: UA-82528307-1
+
+# Menu.
+navbar:
+  - slug: about
+    title: About
+  # - slug: blog
+  #  title: Blog
