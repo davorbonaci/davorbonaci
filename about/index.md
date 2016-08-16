@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 I'm a member of the [Apache Beam (incubating)](https://beam.incubator.apache.org) Project Management Committee and a regular committer to the project since its inception. I'm working as a Senior Software Engineer at Google.
