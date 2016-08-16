@@ -35,7 +35,7 @@ gems:
 comments: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # GitHub pages.
 repository: davorbonaci/davorbonaci.github.io
