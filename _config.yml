@@ -49,5 +49,7 @@ disqus_site_shortname: "davorbonaci"
 navbar:
   - slug: about
     title: About
+  # - slug: beam-dataflow
+  #  title: Beam & Dataflow
   # - slug: blog
   #  title: Blog
