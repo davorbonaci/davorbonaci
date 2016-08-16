@@ -26,11 +26,24 @@ exclude:
   - LICENSE
   - README.md
 
+# Build settings.
+permalink: /blog/:year/:title/
+paginate: 3
+paginate_path: "/blog/page/:num/"
+gems:
+  - jekyll-paginate
+comments: true
+
+markdown: kramdown
+highlighter: pygments
+
 # GitHub pages.
 repository: davorbonaci/davorbonaci.github.io
 
-# Google Analytics.
+# External services.
 google_analytics: UA-82528307-1
+disqus_shortname: "davorbonaci"
+disqus_site_shortname: "davorbonaci"
 
 # Menu.
 navbar:
