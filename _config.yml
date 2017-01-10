@@ -8,8 +8,8 @@ favicon: /images/favicon.ico
 # Author settings.
 author:
   name      : Davor Bonaci
-  job       : Software Engineer at Google
-  bio       : I'm a member of the <a href="https://beam.incubator.apache.org">Apache Beam</a> PMC, and working as a Senior Software Engineer at Google on <a href="https://cloud.google.com/dataflow">Cloud Dataflow</a>.
+  job       : Software Engineer at Google; V.P. of Apache Beam
+  bio       : I'm serving as a chair of the <a href="https://beam.apache.org">Apache Beam</a> PMC, and working as a Senior Software Engineer at Google on <a href="https://cloud.google.com/dataflow">Cloud Dataflow</a>.
   thumb     : /images/davor.jpg
   github    : https://github.com/davorbonaci
   twitter   : https://twitter.com/BonaciDavor
