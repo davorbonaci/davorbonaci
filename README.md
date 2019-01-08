@@ -1,5 +1,5 @@
 # Davor Bonaci's personal website
-The website is served at [http://davorbonaci.com/](http://davorbonaci.com/).
+The website is served at [https://davorbonaci.com/](https://davorbonaci.com/).
 
 If you see a deficiency, feel free to open an issue or propose a pull request.
 
