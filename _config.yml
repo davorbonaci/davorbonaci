@@ -9,7 +9,7 @@ favicon: /images/favicon.ico
 author:
   name      : Davor Bonaci
   job       : CEO at <a href="https://kaskada.com">Kaskada</a>
-  bio       : I'm a co-founder and CEO of a Seattle-based startup, previously chair of the <a href="https://beam.apache.org">Apache Beam</a> PMC and software engineer in Google Cloud.
+  bio       : I'm a co-founder and CEO of a Seattle-based startup <a href="https://kaskada.com">Kaskada</a>, previously chair of the <a href="https://beam.apache.org">Apache Beam</a> PMC and software engineer in Google Cloud.
   thumb     : /images/davor.jpg
   github    : https://github.com/davorbonaci
   twitter   : https://twitter.com/BonaciDavor
